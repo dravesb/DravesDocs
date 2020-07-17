@@ -1,2 +1,2 @@
 # DS_Practice
-Keeping up SQL, Python skills. 
+Keeping up and practicing some data sciene-y skills.
