@@ -1,10 +1,13 @@
--- This is the first query:
+---------------------------------------------------
+
+--       World Population SQL Practice 1 
+
+---------------------------------------------------
 
 SELECT DISTINCT year 
 FROM population_years
 LIMIT 10;
 
--- Add your additional queries below:
 
 SELECT population 
 FROM population_years
@@ -30,3 +33,10 @@ SELECT *
 FROM population_years
 WHERE country = 'Indonesia' AND year = '2000' 
 OR country = 'Indonesia' AND year = '2010'; 
+
+
+
+
+
+
+
