@@ -1,2 +1,17 @@
 # DravesDocs
-Keeping up and practicing some data sciene-y skills.
+
+Collection of notes, cheatsheets, and side projects. 
+
+## Statistics 
+
+## Programming 
+
+## Course Notes 
+
+## Book Notes 
+
+* [Hull; Options, Futures, and Other Derivatives](https://github.com/dravesb/DravesDocs/tree/master/Book-Notes/Options-Futures-and-other-Derivatives)
+
+## Projects
+
+
