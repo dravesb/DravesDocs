@@ -1,2 +1,15 @@
 # DravesDocs
-Keeping up and practicing some data sciene-y skills.
+
+Collection of notes, cheatsheets, and side projects. 
+
+## Statisitcs 
+
+## Programming 
+
+## Course Notes 
+
+## Book Notes 
+
+## Projects
+
+
