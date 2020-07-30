@@ -4,6 +4,8 @@ Collection of notes, cheatsheets, and side projects.
 
 ## Statistics 
 
+## Machine Learning
+
 ## Programming 
 
 ## Course Notes 
