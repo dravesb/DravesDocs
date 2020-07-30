@@ -8,6 +8,13 @@ Collection of notes, cheatsheets, and side projects.
 
 ## Programming 
 
+### R 
+
+### Python 
+ 
+### SQL 
+
+
 ## Course Notes 
 
 ## Book Notes 
