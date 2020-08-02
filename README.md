@@ -7,7 +7,7 @@ Collection of notes, cheatsheets, and side projects.
 ## Machine Learning
 
 * Neural Networks
- 	* [Feed Forward ANN for Binary Classification with Keras](https://github.com/dravesb/DravesDocs/blob/master/Python/Keras_Basic_ANN.ipynb)
+	* [Feed Forward ANN for Binary Classification with Keras](https://github.com/dravesb/DravesDocs/blob/master/Python/Keras_Basic_ANN.ipynb)
 	
 ## Programming 
 
