@@ -29,7 +29,7 @@ Collection of notes, cheatsheets, and side projects.
 * [Aggarwal; Recommender Systems](https://www.springer.com/gp/book/9783319296579)
 	* [Chapter 2: Neighborhood-Based Collaborative Filtering](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/Recommendation-Systems/RS:Chp2.pdf)
 * [Ger\'{o}n; Hands on Machine Learning with Scikit-Learn & Tensor Flow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
-	* [Chapter 3: Classification](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/Recommendation-Systems/RS:Chp2.pdf)
+	* [Chapter 3: Classification](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp3_HOML.ipynb)
 
 ## Projects
 
