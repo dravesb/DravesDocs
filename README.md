@@ -1,8 +1,5 @@
 # DravesDocs
 
-\newcommand[1]{\wrap}{#1}
-
-
 Collection of notes, cheatsheets, and side projects. 
 
 ## Statistics 
@@ -31,7 +28,7 @@ Collection of notes, cheatsheets, and side projects.
 	* [Chapter 3: Hedging strategies using futures](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/Options-Futures-and-other-Derivatives/HullChp3.pdf) 
 * [Aggarwal; Recommender Systems](https://www.springer.com/gp/book/9783319296579)
 	* [Chapter 2: Neighborhood-Based Collaborative Filtering](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/Recommendation-Systems/RS_Chp2.pdf)
-* [Ger\wrap{\'{o}}}n; Hands on Machine Learning with Scikit-Learn & Tensor Flow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
+* [Geron; Hands on Machine Learning with Scikit-Learn & Tensor Flow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 	* [Chapter 3: Classification](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp3_HOML.ipynb)
 
 ## Projects
