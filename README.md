@@ -18,7 +18,7 @@ Collection of notes, cheatsheets, and side projects.
 ### SQL 
 
 
-## Course Notes \& Documents
+## Course Notes & Documents
 
 * [Linear Models](https://github.com/dravesb/Courses/tree/master/MA\%20575)
 * [Generalized Linear Models](https://github.com/dravesb/Courses/tree/master/MA\%20576)
