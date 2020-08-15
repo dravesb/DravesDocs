@@ -26,7 +26,7 @@ Collection of notes, cheatsheets, and side projects.
 * [Stochastic Processes](https://github.com/dravesb/Courses/tree/master/MA%20583)
 * [Computational Statistics](https://github.com/dravesb/Courses/tree/master/MA%20589)
 * [Network Analysis](https://github.com/dravesb/Courses/tree/master/MA%20703)
-* [Algorithms for Networks Analysis]()
+* [Algorithms for Networks Analysis](https://github.com/dravesb/Courses/tree/master/CS%20591/CS%20591%20-%20Notes)
 * [Non/Semi Parametric Data Analysis](https://github.com/dravesb/Courses/tree/master/MA%20750)
 * [Statistical Machine Learning](https://github.com/dravesb/Courses/tree/master/MA%20751)
 * [Probability I](https://github.com/dravesb/Courses/tree/master/MA%20779)
