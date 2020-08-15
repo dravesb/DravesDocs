@@ -18,16 +18,19 @@ Collection of notes, cheatsheets, and side projects.
 ### SQL 
 
 
-## Course Notes 
+## Course Notes \& Documents
 
-* [Linear Models]{https://github.com/dravesb/Courses/tree/master/MA\%20575}
-* [Generalized Linear Models]{https://github.com/dravesb/Courses/tree/master/MA\%20576}
-*
-*
-*
-*
-*
-
+* [Linear Models](https://github.com/dravesb/Courses/tree/master/MA\%20575)
+* [Generalized Linear Models](https://github.com/dravesb/Courses/tree/master/MA\%20576)
+* [Bayesian Statistics](https://github.com/dravesb/Courses/tree/master/MA\%20578)
+* [Stochastic Processes](https://github.com/dravesb/Courses/tree/master/MA\%20583)
+* [Computational Statistics](https://github.com/dravesb/Courses/tree/master/MA\%20589)
+* [Network Analysis](https://github.com/dravesb/Courses/tree/master/MA\%20703)
+* [Non/Semi Parametric Data Analysis](https://github.com/dravesb/Courses/tree/master/MA\%20750)
+* [Statistical Machine Learning](https://github.com/dravesb/Courses/tree/master/MA\%20751)
+* [Probability I](https://github.com/dravesb/Courses/tree/master/MA\%20779)
+* [Probability II](https://github.com/dravesb/Courses/tree/master/MA\%20780)
+* [Advances in Bayesian Computation](https://github.com/dravesb/Courses/tree/master/MA\%20884)
 
 
 ## Book Notes 
