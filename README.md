@@ -20,6 +20,16 @@ Collection of notes, cheatsheets, and side projects.
 
 ## Course Notes 
 
+* [Linear Models]{https://github.com/dravesb/Courses/tree/master/MA\%20575}
+* [Generalized Linear Models]{https://github.com/dravesb/Courses/tree/master/MA\%20576}
+*
+*
+*
+*
+*
+
+
+
 ## Book Notes 
 
 * [Hull; Options, Futures, and Other Derivatives](https://www.amazon.com/Options-Futures-Other-Derivatives-9th/dp/0133456315)
