@@ -2,6 +2,12 @@
 
 Collection of notes, cheatsheets, and side projects. 
 
+## Projects
+
+*[Agent Based Recommendation Systems](https://github.com/dravesb/Agent-Based-Recommendation)
+
+
+
 ## Statistics 
 
 ## Machine Learning
@@ -45,6 +51,6 @@ Collection of notes, cheatsheets, and side projects.
 * [Geron; Hands on Machine Learning with Scikit-Learn & Tensor Flow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 	* [Chapter 3: Classification](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp3_HOML.ipynb)
 
-## Projects
+
 
 
