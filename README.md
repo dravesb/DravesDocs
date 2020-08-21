@@ -4,7 +4,7 @@ Collection of notes, cheatsheets, and side projects.
 
 ## Projects
 
-*[Agent Based Recommendation Systems](https://github.com/dravesb/Agent-Based-Recommendation)
+* [Agent Based Recommendation Systems](https://github.com/dravesb/Agent-Based-Recommendation)
 
 
 
