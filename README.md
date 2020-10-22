@@ -6,6 +6,10 @@ Collection of notes, cheatsheets, and side projects.
 
 * [Agent Based Recommendation Systems](https://github.com/dravesb/Agent-Based-Recommendation)
 
+## Presentations
+
+* [Common Principal Component Analysis - Slides](https://github.com/dravesb/CPCA/blob/main/CPCA_Presentation.pdf)
+
 
 ## Book Notes 
 
