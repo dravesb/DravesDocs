@@ -14,7 +14,7 @@ Collection of notes, cheatsheets, and side projects.
 ## Book Notes 
 
 * [Hull; Options, Futures, and Other Derivatives](https://www.amazon.com/Options-Futures-Other-Derivatives-9th/dp/0133456315)
-	* [Chapter 1: Introduction](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/Options-Futures-and-other-Derivatives/HullChp1.pdf) 
+	* [Chapter 1: Introduction](https://github.com/dravesb/DravesDocs/blob/m aster/Book-Notes/Options-Futures-and-other-Derivatives/HullChp1.pdf) 
 	* [Chapter 2: Mechanics of Futures markets](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/Options-Futures-and-other-Derivatives/HullChp2.pdf) 
 	* [Chapter 3: Hedging strategies using futures](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/Options-Futures-and-other-Derivatives/HullChp3.pdf) 
 * [Aggarwal; Recommender Systems](https://www.springer.com/gp/book/9783319296579)
@@ -22,6 +22,7 @@ Collection of notes, cheatsheets, and side projects.
 * [Geron; Hands on Machine Learning with Scikit-Learn & Tensor Flow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 	* [Chapter 3: Classification](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp3_HOML.ipynb)
 	* [Chapter 4: Training Models](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp4_HOML.ipynb)
+	* [Chapter 8: Dimensionality Reduction](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp8_HOML.ipynb)
 
 
 
