@@ -22,6 +22,7 @@ Collection of notes, cheatsheets, and side projects.
 * [Geron; Hands on Machine Learning with Scikit-Learn & Tensor Flow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 	* [Chapter 3: Classification](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp3_HOML.ipynb)
 	* [Chapter 4: Training Models](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp4_HOML.ipynb)
+	* [Chapter 5: Support Vector Machines](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp5_HOML.ipynb)
 	* [Chapter 8: Dimensionality Reduction](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp8_HOML.ipynb)
 
 
