@@ -23,6 +23,7 @@ Collection of notes, cheatsheets, and side projects.
 	* [Chapter 3: Classification](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp3_HOML.ipynb)
 	* [Chapter 4: Training Models](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp4_HOML.ipynb)
 	* [Chapter 5: Support Vector Machines](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp5_HOML.ipynb)
+	* [Chapter 6: Decision Trees](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp6_HOML.ipynb)
 	* [Chapter 8: Dimensionality Reduction](https://github.com/dravesb/DravesDocs/blob/master/Book-Notes/HOML/Chp8_HOML.ipynb)
 
 
