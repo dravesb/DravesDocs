@@ -9,6 +9,7 @@ Collection of notes, cheatsheets, and side projects.
 ## Presentations
 
 * [Common Principal Component Analysis - Slides](https://github.com/dravesb/CPCA/blob/main/CPCA_Presentation.pdf)
+* [Dimensionality Reduction in Joint Spectral Embeddings - Slides]()
 
 
 ## Book Notes 
@@ -43,9 +44,8 @@ Collection of notes, cheatsheets, and side projects.
 * [Probability II](https://github.com/dravesb/Courses/tree/master/MA%20780)
 * [Advances in Bayesian Computation](https://github.com/dravesb/Courses/tree/master/MA%20882)
 
-## Statistics 
 
-## Machine Learning
+## Other
 
 * Neural Networks
 	* [Feed Forward ANN for Binary Classification with Keras](https://github.com/dravesb/DravesDocs/blob/master/Python/Keras_Basic_ANN.ipynb)
