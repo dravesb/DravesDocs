@@ -5,11 +5,12 @@ Collection of notes, cheatsheets, and side projects.
 ## Projects
 
 * [Agent Based Recommendation Systems](https://github.com/dravesb/Agent-Based-Recommendation)
+* [Harry Potter Co-occurrence Multiplex Network Analysis](https://github.com/dravesb/OmniAnalysis/tree/master/analysis/Harry_Potter)
 
 ## Presentations
 
 * [Common Principal Component Analysis - Slides](https://github.com/dravesb/CPCA/blob/main/CPCA_Presentation.pdf)
-* [Dimensionality Reduction in Joint Spectral Embeddings - Slides]()
+* [Dimensionality Reduction in Joint Spectral Embeddings - Slides](https://github.com/dravesb/DravesDocs/blob/master/Presentations/JSE_Dim_Red.pdf)
 
 
 ## Book Notes 
